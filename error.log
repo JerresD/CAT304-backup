@@ -1,0 +1,221 @@
+Start log
+..
+
+Date and Time: 
+Sunday, Jan 30 2022, 01:28:24
+
+Error: Code 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+Location: Line 38 in D:\xampp\htdocs\myvak\main2\record_view.php
+
+..
+End log
+
+Start log
+..
+
+Date and Time: 
+Sunday, Jan 30 2022, 01:30:55
+
+Error: Code 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+Location: Line 40 in D:\xampp\htdocs\myvak\main2\record_view.php
+
+..
+End log
+
+Start log
+..
+
+Date and Time: 
+Sunday, Jan 30 2022, 01:32:42
+
+Error: Code 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+Location: Line 39 in D:\xampp\htdocs\myvak\main2\record_view.php
+
+..
+End log
+
+Start log
+..
+
+Date and Time: 
+Sunday, Jan 30 2022, 06:59:01
+
+Error: Code 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE user_id=' at line 1
+
+Location: Line 50 in D:\xampp\htdocs\myvak\main2\record_view.php
+
+..
+End log
+
+Start log
+..
+
+Date and Time: 
+Sunday, Jan 30 2022, 07:00:03
+
+Error: Code 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE user_id=' at line 1
+
+Location: Line 50 in D:\xampp\htdocs\myvak\main2\record_view.php
+
+..
+End log
+
+Start log
+..
+
+Date and Time: 
+Sunday, Jan 30 2022, 07:00:55
+
+Error: Code 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE user_id=' at line 1
+
+Location: Line 50 in D:\xampp\htdocs\myvak\main2\record_view.php
+
+..
+End log
+
+Start log
+..
+
+Date and Time: 
+Sunday, Jan 30 2022, 07:01:33
+
+Error: Code 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE user_id=4' at line 1
+
+Location: Line 50 in D:\xampp\htdocs\myvak\main2\record_view.php
+
+..
+End log
+
+Start log
+..
+
+Date and Time: 
+Sunday, Jan 30 2022, 08:27:26
+
+Error: Code 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':30,TEREWR,XDFXFX,XGXGX,NOT SURE,,4)' at line 3
+
+Location: Line 128 in D:\xampp\htdocs\myvak\main2\record_add.php
+
+..
+End log
+
+Start log
+..
+
+Date and Time: 
+Sunday, Jan 30 2022, 08:27:31
+
+Error: Code 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':30,TEREWR,XDFXFX,XGXGX,NOT SURE,,4)' at line 3
+
+Location: Line 128 in D:\xampp\htdocs\myvak\main2\record_add.php
+
+..
+End log
+
+Start log
+..
+
+Date and Time: 
+Sunday, Jan 30 2022, 08:28:06
+
+Error: Code 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':30,TEREWR,XDFXFX,XGXGX,NOT SURE,,4)' at line 3
+
+Location: Line 128 in D:\xampp\htdocs\myvak\main2\record_add.php
+
+..
+End log
+
+Start log
+..
+
+Date and Time: 
+Sunday, Jan 30 2022, 08:28:35
+
+Error: Code 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':30,TEREWR,XDFXFX,XGXGX,NOT SURE,,4)' at line 3
+
+Location: Line 128 in D:\xampp\htdocs\myvak\main2\record_add.php
+
+..
+End log
+
+Start log
+..
+
+Date and Time: 
+Sunday, Jan 30 2022, 08:30:08
+
+Error: Code 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':30,GFH,FGHFGH,FGHFGH,DATE,2022-01-21,4)' at line 3
+
+Location: Line 128 in D:\xampp\htdocs\myvak\main2\record_add.php
+
+..
+End log
+
+Start log
+..
+
+Date and Time: 
+Sunday, Jan 30 2022, 08:32:36
+
+Error: Code 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':35,VGHGF,FGHFGH,FGHFG,DATE,2022-01-28,4)' at line 3
+
+Location: Line 128 in D:\xampp\htdocs\myvak\main2\record_add.php
+
+..
+End log
+
+Start log
+..
+
+Date and Time: 
+Sunday, Jan 30 2022, 08:43:12
+
+Error: Code 1054 - Unknown column 'CHICKENPOX' in 'field list'
+
+Location: Line 130 in D:\xampp\htdocs\myvak\main2\record_add.php
+
+..
+End log
+
+Start log
+..
+
+Date and Time: 
+Sunday, Jan 30 2022, 08:44:47
+
+Error: Code 1054 - Unknown column 'CHICKENPOX' in 'field list'
+
+Location: Line 131 in D:\xampp\htdocs\myvak\main2\record_add.php
+
+..
+End log
+
+Start log
+..
+
+Date and Time: 
+Sunday, Jan 30 2022, 08:45:16
+
+Error: Code 1054 - Unknown column 'CHICKENPOX' in 'field list'
+
+Location: Line 131 in D:\xampp\htdocs\myvak\main2\record_add.php
+
+..
+End log
+
+Start log
+..
+
+Date and Time: 
+Sunday, Jan 30 2022, 08:47:13
+
+Error: Code 1054 - Unknown column 'CHICKENPOX' in 'field list'
+
+Location: Line 130 in D:\xampp\htdocs\myvak\main2\record_add.php
+
+..
+End log
+
